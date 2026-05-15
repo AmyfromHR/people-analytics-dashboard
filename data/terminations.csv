@@ -1,0 +1,427 @@
+employee_id,termination_date,termination_type,is_regrettable,reason,tenure_at_term_years,department,level
+E10902,2024-05-04,Voluntary,False,Better opportunity,1.47,Consulting,IC1
+E10903,2026-02-20,Voluntary,False,Manager / team,2.06,Consulting,IC1
+E10904,2024-04-16,Voluntary,True,Better opportunity,5.59,Consulting,IC5
+E10905,2024-01-07,Voluntary,True,Compensation,2.34,Consulting,IC2
+E10906,2024-10-30,Voluntary,True,Better opportunity,2.09,Consulting,IC3
+E10907,2024-04-16,Voluntary,False,Better opportunity,0.68,Consulting,IC1
+E10908,2024-01-02,Voluntary,True,Manager / team,3.66,Consulting,M1
+E10909,2023-06-05,Voluntary,False,Career growth,3.37,Consulting,M1
+E10910,2024-05-11,Voluntary,True,Manager / team,11.36,Consulting,M2
+E10911,2025-09-15,Voluntary,True,Better opportunity,1.57,Consulting,IC5
+E10912,2024-11-16,Voluntary,True,Career growth,2.4,Consulting,IC5
+E10913,2023-08-26,Voluntary,True,Better opportunity,2.46,Consulting,IC4
+E10914,2025-08-09,Voluntary,True,Personal,7.11,Consulting,IC1
+E10915,2025-02-05,Voluntary,True,Better opportunity,1.86,Consulting,IC5
+E10916,2024-12-28,Voluntary,False,Better opportunity,2.51,Consulting,IC2
+E10917,2026-02-14,Voluntary,True,Better opportunity,3.27,Consulting,IC2
+E10918,2024-03-14,Involuntary,False,Restructuring,2.34,Consulting,M1
+E10919,2023-05-30,Voluntary,True,Better opportunity,1.41,Consulting,IC3
+E10920,2025-01-29,Involuntary,False,Misconduct,2.35,Consulting,M1
+E10921,2023-09-10,Voluntary,False,Better opportunity,4.75,Consulting,IC3
+E10922,2026-04-09,Voluntary,True,Career growth,0.88,Consulting,M2
+E10923,2023-10-31,Voluntary,True,Better opportunity,2.24,Consulting,M3
+E10924,2023-09-15,Voluntary,True,Better opportunity,1.15,Consulting,IC3
+E10925,2025-02-14,Voluntary,True,Manager / team,5.23,Consulting,IC2
+E10926,2024-11-17,Voluntary,True,Better opportunity,0.59,Consulting,IC2
+E10927,2023-12-20,Voluntary,False,Better opportunity,1.29,Consulting,IC5
+E10928,2024-01-13,Voluntary,False,Better opportunity,2.72,Consulting,IC2
+E10929,2024-11-03,Voluntary,True,Better opportunity,7.04,Consulting,IC2
+E10930,2023-08-01,Voluntary,True,Personal,1.91,Consulting,IC2
+E10931,2024-09-30,Voluntary,True,Better opportunity,1.29,Consulting,IC1
+E10932,2024-05-01,Involuntary,False,Restructuring,9.06,Consulting,IC2
+E10933,2024-10-03,Involuntary,False,Performance,0.63,Consulting,IC3
+E10934,2023-06-04,Voluntary,True,Compensation,0.34,Consulting,IC1
+E10935,2025-08-08,Voluntary,True,Career growth,2.86,Consulting,IC1
+E10936,2024-10-22,Involuntary,False,Performance,1.34,Consulting,IC1
+E10937,2025-11-04,Voluntary,True,Manager / team,0.89,Consulting,M2
+E10938,2024-01-16,Involuntary,False,Performance,3.55,Consulting,M1
+E10939,2025-10-14,Involuntary,False,Performance,2.44,Consulting,M2
+E10940,2025-05-04,Voluntary,True,Manager / team,1.28,Consulting,IC3
+E10941,2024-03-10,Voluntary,True,Personal,0.72,Consulting,IC3
+E10942,2026-02-25,Voluntary,True,Manager / team,4.04,Consulting,IC4
+E10943,2025-07-03,Voluntary,True,Personal,3.38,Consulting,IC1
+E10944,2024-10-02,Involuntary,False,Restructuring,1.86,Consulting,M1
+E10945,2026-01-27,Voluntary,True,Manager / team,8.82,Consulting,IC2
+E10946,2024-05-13,Voluntary,True,Better opportunity,0.85,Consulting,IC3
+E10947,2024-12-06,Involuntary,False,Performance,0.59,Consulting,M1
+E10948,2024-08-29,Voluntary,True,Manager / team,1.16,Consulting,IC2
+E10949,2023-09-02,Involuntary,False,Restructuring,1.94,Consulting,IC2
+E10950,2024-04-30,Involuntary,False,Restructuring,2.44,Consulting,IC3
+E10951,2025-05-14,Involuntary,False,Performance,1.66,Consulting,IC5
+E10952,2024-02-26,Voluntary,True,Manager / team,2.67,Consulting,IC3
+E10953,2025-02-01,Involuntary,False,Restructuring,0.74,Consulting,M3
+E10954,2024-08-01,Involuntary,False,Performance,6.38,Consulting,IC2
+E10955,2024-06-26,Voluntary,True,Better opportunity,1.88,Consulting,M2
+E10956,2025-03-03,Voluntary,True,Career growth,4.92,Consulting,M1
+E10957,2023-12-24,Voluntary,True,Manager / team,2.64,Consulting,M2
+E10958,2025-07-29,Involuntary,False,Misconduct,2.9,Consulting,IC2
+E10959,2025-10-21,Voluntary,False,Compensation,3.17,Consulting,M3
+E10960,2025-05-10,Involuntary,False,Misconduct,2.88,Consulting,M3
+E10961,2025-01-03,Voluntary,True,Compensation,3.36,Consulting,IC2
+E10962,2025-07-20,Voluntary,False,Career growth,5.83,Consulting,IC4
+E10963,2024-08-05,Voluntary,True,Career growth,2.35,Consulting,M1
+E10964,2024-09-09,Voluntary,True,Better opportunity,3.55,Consulting,IC5
+E10965,2023-11-08,Voluntary,False,Work-life balance,1.87,Consulting,M1
+E10966,2023-09-26,Voluntary,True,Personal,6.37,Consulting,IC2
+E10967,2025-07-09,Involuntary,False,Restructuring,1.17,Consulting,IC1
+E10968,2026-02-13,Voluntary,True,Better opportunity,8.5,Consulting,M1
+E10969,2024-08-14,Voluntary,False,Career growth,1.95,Consulting,M1
+E10970,2023-06-21,Voluntary,True,Work-life balance,0.64,Consulting,IC1
+E10971,2025-06-17,Voluntary,True,Compensation,2.23,Consulting,IC2
+E10972,2023-11-17,Involuntary,False,Performance,1.17,Consulting,M1
+E10973,2023-07-13,Voluntary,False,Better opportunity,3.94,Consulting,IC3
+E10974,2024-03-27,Voluntary,True,Compensation,1.19,Consulting,M1
+E10975,2024-11-04,Voluntary,True,Compensation,1.41,Consulting,IC2
+E10976,2026-02-09,Voluntary,True,Manager / team,0.44,Consulting,IC3
+E10977,2026-01-18,Voluntary,False,Career growth,1.4,Consulting,IC1
+E10978,2023-10-25,Voluntary,True,Better opportunity,0.29,Consulting,IC4
+E10979,2026-02-05,Involuntary,False,Restructuring,0.57,Consulting,IC3
+E10980,2025-06-30,Voluntary,False,Work-life balance,3.7,Consulting,IC2
+E10981,2024-10-31,Involuntary,False,Performance,3.77,Consulting,IC3
+E10982,2023-11-25,Voluntary,False,Better opportunity,2.83,Consulting,IC1
+E10983,2024-08-18,Voluntary,True,Better opportunity,0.93,Consulting,IC3
+E10984,2026-05-11,Voluntary,True,Better opportunity,1.94,Consulting,IC3
+E10985,2025-07-27,Involuntary,False,Performance,2.0,Consulting,IC2
+E10986,2024-03-07,Voluntary,False,Better opportunity,0.79,Consulting,M1
+E10987,2024-04-17,Voluntary,False,Better opportunity,6.7,Consulting,M2
+E10988,2025-10-18,Voluntary,True,Personal,4.06,Consulting,IC3
+E10989,2024-10-20,Voluntary,True,Personal,1.68,Consulting,M1
+E10990,2025-07-13,Voluntary,False,Work-life balance,2.06,Consulting,IC1
+E10991,2023-06-05,Voluntary,True,Relocation,2.38,Consulting,IC3
+E10992,2023-12-02,Involuntary,False,Restructuring,0.39,Consulting,IC1
+E10993,2026-05-11,Involuntary,False,Performance,1.65,Consulting,IC2
+E10994,2026-01-03,Voluntary,True,Career growth,1.16,Consulting,IC4
+E10995,2025-08-10,Voluntary,False,Work-life balance,0.9,Consulting,IC4
+E10996,2023-08-19,Involuntary,False,Restructuring,1.6,Consulting,IC4
+E10997,2025-01-20,Voluntary,False,Relocation,8.48,Consulting,IC1
+E10998,2023-11-28,Voluntary,False,Better opportunity,3.36,Consulting,IC4
+E10999,2025-02-26,Voluntary,False,Better opportunity,1.27,Consulting,IC3
+E11000,2025-10-31,Involuntary,False,Misconduct,3.18,Consulting,IC1
+E11001,2026-04-02,Involuntary,False,Restructuring,6.16,Consulting,IC3
+E11002,2025-02-06,Voluntary,True,Career growth,4.22,Consulting,IC1
+E11003,2023-07-09,Voluntary,False,Better opportunity,2.11,Consulting,IC3
+E11004,2024-10-02,Voluntary,True,Career growth,1.2,Consulting,M1
+E11005,2024-11-22,Voluntary,True,Better opportunity,3.52,Consulting,IC4
+E11006,2024-01-19,Involuntary,False,Performance,2.75,Consulting,IC4
+E11007,2026-01-06,Voluntary,True,Better opportunity,4.12,Consulting,IC3
+E11008,2023-11-12,Involuntary,False,Performance,3.34,Consulting,IC2
+E11009,2024-07-22,Voluntary,True,Personal,4.66,Consulting,M1
+E11010,2025-08-26,Voluntary,True,Work-life balance,1.31,Consulting,IC2
+E11011,2023-05-29,Involuntary,False,Performance,5.77,Consulting,IC5
+E11012,2023-05-28,Involuntary,False,Performance,2.35,Consulting,IC4
+E11013,2024-11-24,Voluntary,True,Career growth,10.58,Consulting,IC2
+E11014,2024-07-30,Voluntary,True,Better opportunity,1.16,Consulting,IC3
+E11015,2023-12-06,Voluntary,False,Career growth,8.07,Consulting,IC4
+E11016,2025-06-15,Involuntary,False,Misconduct,2.36,Consulting,M1
+E11017,2024-11-27,Voluntary,False,Better opportunity,1.19,Consulting,IC1
+E11018,2025-01-11,Voluntary,False,Better opportunity,1.37,Consulting,IC4
+E11019,2025-08-15,Voluntary,True,Manager / team,1.56,Consulting,M1
+E11020,2025-01-05,Voluntary,True,Career growth,2.82,Consulting,IC4
+E11021,2024-06-02,Involuntary,False,Restructuring,3.06,Consulting,IC5
+E11022,2026-01-09,Involuntary,False,Performance,1.27,Consulting,IC3
+E11023,2024-05-15,Voluntary,True,Career growth,1.97,Consulting,M1
+E11024,2024-05-19,Involuntary,False,Misconduct,11.17,Consulting,IC2
+E11025,2025-01-28,Voluntary,True,Work-life balance,8.01,Consulting,IC2
+E11026,2025-01-02,Involuntary,False,Restructuring,2.85,Consulting,IC2
+E11027,2023-10-03,Involuntary,False,Performance,2.07,Consulting,M1
+E11028,2025-06-30,Involuntary,False,Restructuring,2.21,Consulting,M1
+E11029,2024-02-16,Voluntary,True,Better opportunity,3.29,Consulting,M1
+E11030,2025-12-03,Voluntary,False,Relocation,0.89,Consulting,M1
+E11031,2026-02-02,Voluntary,False,Better opportunity,1.64,Consulting,IC5
+E11032,2023-05-20,Voluntary,False,Better opportunity,0.53,Consulting,IC4
+E11033,2024-03-30,Involuntary,False,Performance,2.77,Consulting,IC2
+E11034,2025-10-15,Voluntary,True,Better opportunity,3.38,Consulting,IC1
+E11035,2023-07-27,Voluntary,True,Compensation,1.37,Consulting,IC3
+E11036,2026-05-02,Voluntary,True,Career growth,7.09,Consulting,M1
+E11037,2024-08-16,Voluntary,True,Relocation,0.75,Consulting,IC5
+E11038,2025-01-26,Involuntary,False,Performance,0.62,Consulting,IC3
+E11039,2025-11-29,Voluntary,True,Compensation,2.41,Consulting,M2
+E11040,2024-02-09,Voluntary,False,Better opportunity,4.65,Consulting,M1
+E11041,2024-04-12,Voluntary,True,Better opportunity,7.74,Consulting,IC5
+E11042,2024-07-16,Voluntary,False,Manager / team,1.39,Consulting,M3
+E11043,2023-07-26,Involuntary,False,Performance,4.77,Consulting,IC2
+E11044,2023-08-18,Voluntary,True,Better opportunity,1.95,Consulting,IC3
+E11045,2024-01-03,Voluntary,True,Manager / team,1.75,Consulting,IC1
+E11046,2024-03-19,Voluntary,False,Career growth,4.08,Consulting,IC2
+E11047,2023-12-03,Voluntary,False,Better opportunity,3.39,Consulting,IC2
+E11048,2023-12-11,Involuntary,False,Restructuring,0.57,Consulting,IC1
+E11049,2023-12-14,Voluntary,True,Better opportunity,6.55,Consulting,IC1
+E11050,2026-04-16,Voluntary,False,Better opportunity,6.07,Consulting,IC2
+E11051,2026-02-20,Voluntary,True,Work-life balance,1.22,Consulting,IC2
+E11052,2023-06-06,Voluntary,True,Better opportunity,2.76,Consulting,IC2
+E11053,2024-03-11,Voluntary,False,Better opportunity,2.99,Consulting,IC4
+E11054,2024-10-16,Involuntary,False,Performance,2.48,Consulting,IC5
+E11055,2023-08-21,Involuntary,False,Performance,1.3,Consulting,IC2
+E11056,2025-05-17,Voluntary,True,Better opportunity,1.17,Consulting,M1
+E11057,2023-08-12,Voluntary,False,Work-life balance,1.97,Consulting,M1
+E11058,2025-05-12,Voluntary,False,Better opportunity,5.14,Consulting,IC2
+E11059,2025-06-12,Voluntary,True,Compensation,3.11,Consulting,IC5
+E11060,2024-11-17,Voluntary,False,Compensation,1.49,Consulting,M3
+E11061,2024-04-16,Voluntary,True,Compensation,3.73,Consulting,IC3
+E11062,2024-04-01,Voluntary,True,Relocation,0.21,Consulting,M3
+E11063,2025-10-24,Voluntary,True,Work-life balance,5.04,Consulting,M1
+E11064,2024-02-02,Voluntary,False,Compensation,0.5,Consulting,IC4
+E11065,2023-08-13,Voluntary,True,Better opportunity,1.51,Consulting,IC3
+E11066,2026-04-19,Voluntary,True,Better opportunity,0.82,Consulting,IC4
+E11067,2026-04-16,Voluntary,False,Career growth,0.71,Consulting,IC2
+E11068,2025-07-07,Voluntary,False,Compensation,5.09,Consulting,IC3
+E11069,2023-08-30,Voluntary,True,Better opportunity,1.38,Consulting,M3
+E11070,2026-02-19,Voluntary,True,Better opportunity,2.65,Consulting,M1
+E11071,2024-11-30,Voluntary,False,Better opportunity,1.94,Consulting,IC2
+E11072,2024-09-03,Voluntary,False,Compensation,2.95,Consulting,IC2
+E11073,2026-02-24,Voluntary,False,Personal,2.14,Consulting,IC3
+E11074,2023-06-16,Voluntary,False,Better opportunity,0.72,Consulting,IC5
+E11075,2023-11-13,Voluntary,True,Personal,4.46,Consulting,IC3
+E11076,2025-11-30,Involuntary,False,Restructuring,1.36,Consulting,IC4
+E11077,2025-11-26,Voluntary,False,Better opportunity,0.58,Consulting,IC2
+E11078,2025-05-24,Voluntary,True,Compensation,1.43,Consulting,IC3
+E11079,2025-04-09,Voluntary,True,Better opportunity,6.68,Consulting,IC2
+E11080,2026-04-14,Voluntary,True,Better opportunity,3.97,Consulting,IC2
+E11081,2024-02-22,Involuntary,False,Restructuring,1.52,Consulting,IC2
+E11082,2025-07-23,Voluntary,False,Relocation,1.52,Consulting,IC2
+E11083,2023-12-17,Voluntary,True,Compensation,1.56,Consulting,IC4
+E11084,2024-01-18,Involuntary,False,Misconduct,10.6,Consulting,IC4
+E11085,2026-02-25,Voluntary,True,Compensation,2.73,Consulting,IC3
+E11086,2026-01-24,Involuntary,False,Performance,2.84,Consulting,M2
+E11087,2024-04-30,Voluntary,True,Better opportunity,4.59,Consulting,IC4
+E11088,2025-02-28,Voluntary,True,Better opportunity,2.43,Consulting,IC4
+E11089,2024-09-30,Voluntary,False,Manager / team,1.63,Consulting,IC4
+E11090,2024-02-08,Voluntary,True,Career growth,1.72,Consulting,IC2
+E11091,2025-01-12,Voluntary,True,Better opportunity,1.9,Consulting,IC5
+E11092,2024-06-25,Voluntary,True,Better opportunity,1.95,Consulting,IC4
+E11093,2024-02-06,Voluntary,False,Personal,3.6,Consulting,IC2
+E11094,2024-01-02,Voluntary,True,Career growth,2.1,Technology,IC2
+E11095,2025-09-11,Voluntary,False,Compensation,3.61,Technology,M2
+E11096,2023-12-15,Voluntary,True,Better opportunity,1.89,Technology,IC1
+E11097,2024-11-07,Voluntary,True,Better opportunity,2.14,Technology,IC1
+E11098,2023-09-15,Voluntary,True,Career growth,0.41,Technology,IC1
+E11099,2025-11-22,Voluntary,True,Better opportunity,4.19,Technology,IC2
+E11100,2024-08-12,Involuntary,False,Restructuring,2.65,Technology,IC3
+E11101,2024-12-20,Voluntary,True,Compensation,4.47,Technology,M1
+E11102,2025-02-09,Involuntary,False,Performance,0.2,Technology,M2
+E11103,2025-11-03,Voluntary,True,Career growth,10.7,Technology,IC4
+E11104,2024-06-16,Voluntary,False,Compensation,1.8,Technology,IC4
+E11105,2024-05-27,Voluntary,True,Better opportunity,4.88,Technology,IC4
+E11106,2024-12-02,Voluntary,False,Better opportunity,0.87,Technology,IC1
+E11107,2025-03-17,Voluntary,True,Better opportunity,3.29,Technology,IC2
+E11108,2025-03-01,Involuntary,False,Performance,0.87,Technology,IC1
+E11109,2025-01-16,Voluntary,False,Relocation,1.22,Technology,M1
+E11110,2025-02-19,Involuntary,False,Performance,9.3,Technology,IC1
+E11111,2026-03-10,Voluntary,True,Work-life balance,1.73,Technology,IC1
+E11112,2024-08-06,Involuntary,False,Restructuring,2.39,Technology,IC1
+E11113,2026-05-01,Voluntary,True,Better opportunity,4.04,Technology,IC2
+E11114,2023-05-29,Voluntary,False,Work-life balance,2.99,Technology,M3
+E11115,2024-09-21,Voluntary,True,Better opportunity,2.27,Technology,M2
+E11116,2023-12-29,Voluntary,True,Relocation,2.69,Technology,M2
+E11117,2026-04-03,Voluntary,True,Better opportunity,13.76,Technology,IC1
+E11118,2025-01-07,Voluntary,True,Work-life balance,1.92,Technology,IC3
+E11119,2026-05-07,Voluntary,True,Relocation,2.36,Technology,IC1
+E11120,2024-07-20,Voluntary,True,Better opportunity,4.66,Technology,IC4
+E11121,2025-10-18,Voluntary,False,Work-life balance,4.87,Technology,M1
+E11122,2025-03-20,Voluntary,True,Career growth,5.2,Technology,IC3
+E11123,2023-10-02,Voluntary,True,Compensation,3.35,Technology,M1
+E11124,2025-08-16,Voluntary,True,Manager / team,0.8,Technology,IC3
+E11125,2023-05-23,Voluntary,True,Manager / team,7.43,Technology,IC1
+E11126,2023-10-06,Voluntary,True,Work-life balance,0.8,Technology,IC4
+E11127,2025-01-17,Voluntary,True,Work-life balance,2.56,Technology,M1
+E11128,2023-07-13,Voluntary,True,Compensation,1.1,Technology,IC3
+E11129,2025-01-04,Voluntary,True,Compensation,1.91,Technology,IC5
+E11130,2025-06-13,Voluntary,False,Compensation,2.62,Technology,M3
+E11131,2023-05-21,Voluntary,True,Career growth,2.6,Technology,IC1
+E11132,2025-04-14,Involuntary,False,Restructuring,2.82,Technology,IC2
+E11133,2024-04-04,Voluntary,True,Work-life balance,7.32,Technology,IC3
+E11134,2024-05-16,Voluntary,True,Relocation,2.89,Technology,IC2
+E11135,2025-12-10,Voluntary,True,Career growth,1.65,Technology,M4
+E11136,2026-02-01,Voluntary,True,Better opportunity,4.35,Technology,IC1
+E11137,2024-12-14,Voluntary,True,Personal,5.21,Technology,IC2
+E11138,2025-01-26,Voluntary,True,Compensation,0.75,Technology,IC3
+E11139,2025-10-04,Voluntary,True,Better opportunity,3.24,Technology,IC2
+E11140,2025-10-20,Voluntary,True,Compensation,3.52,Technology,IC2
+E11141,2026-01-17,Voluntary,True,Better opportunity,1.59,Technology,IC5
+E11142,2023-12-19,Voluntary,True,Better opportunity,6.05,Technology,IC3
+E11143,2024-02-21,Voluntary,True,Compensation,1.78,Technology,IC2
+E11144,2023-10-12,Voluntary,True,Better opportunity,2.22,Technology,IC1
+E11145,2025-08-17,Involuntary,False,Performance,1.75,Technology,M1
+E11146,2026-01-01,Voluntary,True,Better opportunity,2.04,Technology,IC3
+E11147,2024-12-26,Voluntary,True,Career growth,0.84,Technology,IC5
+E11148,2026-03-04,Voluntary,True,Better opportunity,0.64,Technology,IC3
+E11149,2024-04-14,Voluntary,True,Relocation,7.21,Technology,M1
+E11150,2024-03-05,Voluntary,True,Career growth,1.02,Technology,IC3
+E11151,2024-08-27,Involuntary,False,Restructuring,0.91,Technology,IC5
+E11152,2026-04-05,Voluntary,True,Compensation,0.36,Technology,IC4
+E11153,2023-07-31,Involuntary,False,Restructuring,1.2,Technology,M1
+E11154,2024-11-21,Voluntary,True,Better opportunity,0.7,Technology,IC4
+E11155,2025-06-24,Voluntary,True,Manager / team,7.48,Technology,IC2
+E11156,2024-10-07,Voluntary,False,Better opportunity,4.51,Technology,IC1
+E11157,2025-04-16,Voluntary,False,Manager / team,1.16,Technology,IC3
+E11158,2024-02-19,Voluntary,True,Better opportunity,12.2,Technology,IC1
+E11159,2024-07-17,Voluntary,True,Compensation,4.41,Technology,IC4
+E11160,2024-01-08,Involuntary,False,Restructuring,1.55,Technology,IC4
+E11161,2026-01-15,Voluntary,False,Better opportunity,0.27,Technology,IC1
+E11162,2023-06-25,Involuntary,False,Performance,12.58,Technology,M1
+E11163,2026-03-25,Voluntary,True,Better opportunity,0.66,Sales,IC2
+E11164,2024-05-13,Voluntary,False,Better opportunity,0.54,Sales,IC2
+E11165,2023-06-18,Voluntary,True,Better opportunity,4.56,Sales,IC3
+E11166,2025-12-31,Voluntary,True,Better opportunity,14.17,Sales,IC4
+E11167,2024-05-17,Voluntary,False,Manager / team,6.09,Sales,IC4
+E11168,2025-11-24,Voluntary,True,Work-life balance,3.16,Sales,IC2
+E11169,2024-06-28,Voluntary,True,Compensation,3.24,Sales,IC1
+E11170,2024-03-12,Voluntary,True,Better opportunity,3.98,Sales,IC3
+E11171,2026-05-03,Involuntary,False,Performance,3.69,Sales,IC3
+E11172,2023-05-13,Voluntary,False,Career growth,2.52,Sales,IC4
+E11173,2026-04-30,Involuntary,False,Restructuring,2.18,Sales,IC1
+E11174,2025-06-29,Voluntary,True,Better opportunity,1.91,Sales,M1
+E11175,2023-11-27,Voluntary,True,Better opportunity,1.1,Sales,IC5
+E11176,2023-10-29,Voluntary,True,Personal,1.61,Sales,IC2
+E11177,2023-05-22,Voluntary,False,Career growth,0.52,Sales,IC2
+E11178,2024-07-04,Voluntary,True,Better opportunity,1.86,Sales,IC1
+E11179,2024-10-11,Involuntary,False,Performance,0.91,Sales,IC3
+E11180,2024-11-25,Voluntary,False,Better opportunity,0.83,Sales,IC2
+E11181,2026-01-23,Voluntary,False,Relocation,2.32,Sales,M1
+E11182,2025-01-28,Involuntary,False,Performance,6.13,Sales,IC2
+E11183,2024-01-09,Involuntary,False,Performance,4.19,Sales,IC1
+E11184,2024-07-23,Voluntary,False,Career growth,0.57,Sales,IC2
+E11185,2023-08-25,Voluntary,True,Better opportunity,0.91,Sales,IC3
+E11186,2024-03-03,Voluntary,True,Work-life balance,4.27,Sales,M1
+E11187,2024-08-07,Involuntary,False,Restructuring,0.91,Sales,IC1
+E11188,2025-08-08,Involuntary,False,Performance,1.68,Sales,IC3
+E11189,2024-05-03,Voluntary,False,Better opportunity,3.12,Sales,IC1
+E11190,2026-04-06,Voluntary,True,Manager / team,0.93,Sales,IC4
+E11191,2024-08-27,Voluntary,True,Career growth,2.19,Sales,IC3
+E11192,2024-03-28,Voluntary,True,Better opportunity,0.69,Sales,IC4
+E11193,2025-07-28,Voluntary,False,Better opportunity,1.24,Sales,IC2
+E11194,2023-09-28,Voluntary,True,Compensation,2.6,Sales,IC5
+E11195,2025-04-22,Voluntary,True,Work-life balance,0.56,Sales,IC3
+E11196,2024-06-12,Voluntary,False,Work-life balance,2.86,Sales,IC4
+E11197,2025-08-21,Voluntary,True,Personal,1.98,Sales,IC2
+E11198,2024-01-05,Involuntary,False,Restructuring,3.13,Sales,IC2
+E11199,2024-10-04,Voluntary,True,Manager / team,2.41,Sales,M1
+E11200,2025-04-05,Involuntary,False,Performance,5.99,Sales,IC5
+E11201,2026-01-22,Voluntary,True,Relocation,2.22,Sales,M1
+E11202,2024-08-04,Voluntary,True,Compensation,1.43,Sales,M1
+E11203,2023-05-30,Involuntary,False,Restructuring,2.22,Sales,IC2
+E11204,2025-04-10,Involuntary,False,Restructuring,3.11,Sales,IC4
+E11205,2024-07-31,Voluntary,False,Compensation,2.09,Sales,IC2
+E11206,2024-06-03,Involuntary,False,Performance,2.08,Sales,M2
+E11207,2024-11-04,Voluntary,True,Better opportunity,1.15,Sales,IC2
+E11208,2025-05-09,Voluntary,True,Better opportunity,1.18,Sales,M1
+E11209,2026-02-12,Involuntary,False,Performance,0.65,Sales,IC1
+E11210,2026-01-22,Voluntary,False,Work-life balance,8.16,Sales,IC1
+E11211,2024-11-23,Voluntary,False,Career growth,0.74,Sales,M3
+E11212,2025-08-02,Voluntary,True,Manager / team,1.16,Sales,IC3
+E11213,2025-09-23,Voluntary,False,Compensation,1.13,Sales,IC3
+E11214,2024-05-02,Voluntary,True,Relocation,4.11,Sales,IC2
+E11215,2023-05-28,Voluntary,True,Better opportunity,1.59,Sales,IC3
+E11216,2025-05-20,Involuntary,False,Restructuring,5.46,Sales,IC1
+E11217,2025-04-12,Voluntary,False,Compensation,1.17,Sales,IC2
+E11218,2025-06-11,Involuntary,False,Restructuring,2.51,Sales,IC3
+E11219,2024-02-03,Voluntary,True,Work-life balance,1.03,Sales,IC2
+E11220,2025-10-12,Voluntary,False,Compensation,11.19,Sales,M1
+E11221,2026-01-03,Voluntary,True,Work-life balance,0.78,Sales,IC5
+E11222,2026-04-03,Voluntary,True,Personal,2.58,Sales,M4
+E11223,2023-08-16,Voluntary,True,Work-life balance,3.34,Sales,IC3
+E11224,2024-10-12,Voluntary,True,Work-life balance,2.8,Sales,IC2
+E11225,2024-10-24,Voluntary,False,Career growth,1.73,Sales,IC5
+E11226,2025-04-14,Voluntary,True,Career growth,1.81,Sales,M1
+E11227,2024-06-21,Involuntary,False,Performance,2.08,Sales,IC4
+E11228,2026-03-21,Involuntary,False,Restructuring,1.79,Sales,IC2
+E11229,2024-12-17,Voluntary,False,Career growth,4.35,Sales,IC1
+E11230,2025-03-31,Involuntary,False,Restructuring,11.79,Sales,IC2
+E11231,2023-10-04,Voluntary,True,Better opportunity,1.29,Sales,M1
+E11232,2024-12-27,Voluntary,True,Work-life balance,0.67,Sales,IC2
+E11233,2025-05-23,Voluntary,True,Better opportunity,1.87,Sales,M1
+E11234,2023-06-27,Voluntary,False,Compensation,14.99,Sales,IC2
+E11235,2023-10-21,Voluntary,True,Compensation,1.06,Sales,M2
+E11236,2026-01-04,Voluntary,True,Work-life balance,7.47,Sales,IC1
+E11237,2023-10-28,Voluntary,False,Compensation,7.7,Sales,IC5
+E11238,2025-07-17,Voluntary,True,Better opportunity,1.29,Sales,IC4
+E11239,2024-01-24,Voluntary,True,Manager / team,3.17,Sales,IC3
+E11240,2025-05-10,Voluntary,True,Manager / team,7.4,Sales,IC1
+E11241,2024-11-18,Voluntary,True,Better opportunity,1.48,Finance,M1
+E11242,2025-12-01,Voluntary,True,Compensation,1.71,Finance,IC3
+E11243,2025-04-21,Voluntary,True,Work-life balance,1.26,Finance,IC2
+E11244,2025-05-29,Involuntary,False,Performance,0.89,Finance,IC3
+E11245,2024-02-14,Voluntary,True,Better opportunity,1.2,Finance,IC1
+E11246,2026-02-11,Voluntary,False,Better opportunity,0.76,Finance,IC4
+E11247,2024-08-26,Voluntary,False,Compensation,2.07,Finance,M1
+E11248,2025-10-22,Voluntary,False,Better opportunity,1.08,Finance,M1
+E11249,2025-06-23,Voluntary,True,Better opportunity,2.43,Finance,IC4
+E11250,2024-11-17,Voluntary,True,Work-life balance,0.58,Finance,IC2
+E11251,2024-05-30,Involuntary,False,Performance,2.62,Finance,IC2
+E11252,2025-11-23,Voluntary,True,Better opportunity,3.92,Finance,IC4
+E11253,2024-03-17,Voluntary,True,Career growth,0.41,Finance,IC2
+E11254,2024-12-08,Involuntary,False,Performance,2.71,Finance,M3
+E11255,2023-11-11,Involuntary,False,Restructuring,5.37,Finance,IC1
+E11256,2026-02-24,Involuntary,False,Performance,0.76,Finance,IC3
+E11257,2024-03-05,Involuntary,False,Performance,7.67,Finance,IC2
+E11258,2024-05-16,Involuntary,False,Restructuring,2.81,Finance,IC3
+E11259,2023-06-05,Voluntary,True,Manager / team,1.14,Finance,IC3
+E11260,2025-11-03,Voluntary,False,Better opportunity,1.92,Finance,IC3
+E11261,2023-11-19,Voluntary,True,Career growth,3.14,Finance,IC3
+E11262,2025-02-08,Involuntary,False,Performance,2.14,Finance,IC3
+E11263,2026-04-11,Voluntary,True,Manager / team,3.1,Finance,IC5
+E11264,2023-08-25,Voluntary,False,Compensation,0.96,Finance,IC2
+E11265,2023-06-10,Voluntary,False,Better opportunity,2.3,Finance,IC3
+E11266,2024-09-19,Involuntary,False,Restructuring,0.65,Finance,IC3
+E11267,2024-03-23,Voluntary,False,Relocation,1.84,Finance,IC4
+E11268,2025-04-03,Voluntary,False,Personal,0.97,Marketing,IC3
+E11269,2023-12-16,Voluntary,True,Better opportunity,1.12,Marketing,IC4
+E11270,2025-04-21,Voluntary,True,Compensation,5.41,Marketing,IC3
+E11271,2024-02-10,Voluntary,True,Better opportunity,4.82,Marketing,IC2
+E11272,2025-01-03,Voluntary,True,Compensation,3.27,Marketing,IC3
+E11273,2025-12-25,Voluntary,True,Better opportunity,0.84,Marketing,IC2
+E11274,2024-04-03,Voluntary,False,Better opportunity,1.56,Marketing,M1
+E11275,2025-05-31,Voluntary,True,Work-life balance,5.31,Marketing,M1
+E11276,2024-05-24,Voluntary,True,Personal,2.25,Marketing,IC2
+E11277,2025-02-25,Voluntary,True,Better opportunity,12.87,Marketing,IC4
+E11278,2026-04-18,Voluntary,True,Work-life balance,2.75,Marketing,IC3
+E11279,2025-08-27,Involuntary,False,Restructuring,2.35,Marketing,IC2
+E11280,2024-01-31,Voluntary,True,Better opportunity,1.57,Marketing,IC1
+E11281,2023-11-29,Involuntary,False,Performance,2.24,Marketing,IC3
+E11282,2026-04-21,Involuntary,False,Restructuring,1.78,Marketing,IC4
+E11283,2023-06-06,Involuntary,False,Performance,3.55,Marketing,IC4
+E11284,2025-12-24,Voluntary,True,Career growth,4.33,Marketing,M1
+E11285,2025-06-04,Voluntary,True,Compensation,1.07,Marketing,M1
+E11286,2023-10-02,Voluntary,False,Better opportunity,0.69,Marketing,IC1
+E11287,2023-12-04,Voluntary,True,Work-life balance,0.46,Marketing,IC3
+E11288,2024-10-01,Voluntary,True,Work-life balance,3.02,Marketing,IC3
+E11289,2025-05-13,Voluntary,True,Better opportunity,0.83,Marketing,IC5
+E11290,2024-05-14,Voluntary,True,Better opportunity,0.36,Marketing,IC1
+E11291,2025-11-03,Involuntary,False,Restructuring,2.75,Marketing,IC3
+E11292,2025-06-10,Involuntary,False,Restructuring,14.78,Marketing,M4
+E11293,2024-09-14,Voluntary,True,Compensation,2.0,Marketing,IC5
+E11294,2025-05-17,Voluntary,False,Better opportunity,3.93,Marketing,IC5
+E11295,2024-12-13,Voluntary,False,Manager / team,2.15,Marketing,IC5
+E11296,2025-01-15,Voluntary,False,Compensation,1.86,Marketing,IC2
+E11297,2024-11-26,Voluntary,False,Career growth,4.2,Marketing,IC5
+E11298,2023-07-27,Involuntary,False,Performance,1.59,Marketing,IC1
+E11299,2024-10-03,Voluntary,False,Compensation,2.49,Marketing,IC2
+E11300,2024-07-29,Involuntary,False,Restructuring,2.6,Marketing,IC3
+E11301,2023-11-22,Voluntary,False,Better opportunity,1.18,Marketing,IC2
+E11302,2023-09-02,Voluntary,True,Compensation,4.45,Marketing,IC3
+E11303,2024-01-12,Voluntary,False,Compensation,1.75,Marketing,IC3
+E11304,2025-07-02,Voluntary,True,Relocation,1.1,Marketing,M2
+E11305,2024-03-12,Involuntary,False,Performance,3.09,Marketing,IC3
+E11306,2025-07-23,Voluntary,True,Manager / team,0.98,Marketing,IC1
+E11307,2025-10-11,Voluntary,True,Compensation,2.06,Marketing,IC1
+E11308,2026-01-09,Voluntary,True,Better opportunity,2.0,Marketing,IC2
+E11309,2025-10-16,Involuntary,False,Performance,4.8,Marketing,IC3
+E11310,2025-07-28,Involuntary,False,Performance,2.94,Marketing,IC2
+E11311,2024-09-18,Voluntary,True,Better opportunity,1.97,Marketing,IC3
+E11312,2023-11-10,Voluntary,True,Work-life balance,3.87,Marketing,IC4
+E11313,2025-02-25,Voluntary,False,Work-life balance,6.12,People & Culture,IC2
+E11314,2025-04-26,Voluntary,True,Better opportunity,3.14,People & Culture,IC2
+E11315,2024-08-31,Voluntary,True,Better opportunity,2.03,People & Culture,M2
+E11316,2023-11-02,Voluntary,False,Relocation,0.7,People & Culture,IC5
+E11317,2024-03-08,Voluntary,False,Compensation,0.86,People & Culture,IC4
+E11318,2025-11-17,Voluntary,False,Better opportunity,1.57,People & Culture,IC1
+E11319,2024-07-01,Voluntary,False,Manager / team,1.23,People & Culture,IC3
+E11320,2024-02-24,Involuntary,False,Restructuring,1.73,People & Culture,IC4
+E11321,2024-10-15,Voluntary,True,Better opportunity,2.11,People & Culture,IC3
+E11322,2024-11-16,Voluntary,True,Work-life balance,3.07,People & Culture,IC4
+E11323,2024-11-16,Involuntary,False,Performance,1.9,People & Culture,IC1
+E11324,2025-07-10,Voluntary,True,Better opportunity,2.97,People & Culture,M1
+E11325,2025-02-15,Voluntary,True,Personal,2.12,People & Culture,IC4
+E11326,2026-03-01,Voluntary,False,Relocation,0.41,People & Culture,IC2
+E11327,2026-04-29,Voluntary,False,Better opportunity,0.95,People & Culture,IC1
