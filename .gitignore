@@ -9,3 +9,5 @@ streamlit.log
 .vscode/
 .idea/
 .claude/
+test_pages.py
+validate_data.py
