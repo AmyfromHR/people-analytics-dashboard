@@ -2,7 +2,7 @@
 
 A People Analytics dashboard built to show how I think about workforce data as an HR leader. Synthetic data for a fictional 900-employee professional services firm. Three years of history, six departments.
 
-**Live demo:** (https://amy-people-analytics-dashboard.streamlit.app )
+**Live demo:** (https://amy-people-analytics-dashboard.streamlit.app)
 
 ---
 
